@@ -1,0 +1,12 @@
+[package]
+name = "bip152"
+version = "0.1.0"
+authors = ["Shing Him Ng <shinghim@protonmail.com>"]
+license = "CC0-1.0"
+homepage = "https://github.com/shinghim/rust-bip152"
+repository = "https://github.com/shinghim/rust-bip152/"
+documentation = "https://docs.rs/bip152/"
+description = "Library for BIP-152 Bitcoin Compact Block Relay"
+keywords = [ "crypto", "bitcoin", "bip152" ]
+readme = "README.md"
+edition = "2021"
